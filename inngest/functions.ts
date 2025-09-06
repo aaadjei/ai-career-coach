@@ -261,7 +261,7 @@ duration:'',
 initialNodes : [
 {
  id: '1',
- type: 'turbo',
+ type: 'turbo',// Type turbo only everytime
  position: { x: 0, y: 0 },
  data: {
 title: 'Step Title',
